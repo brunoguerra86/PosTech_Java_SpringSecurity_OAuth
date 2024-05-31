@@ -16,8 +16,8 @@ spring:
       client:
         registration:
           google:
-            client-id: seu_client_id.apps.googleusercontent.com
-            client-secret: sua_key
+            client-id: 278675020158-vdi7801oiqatsuihjh6ts6ukiteuopgs.apps.googleusercontent.com
+            client-secret: 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
       resourceserver:
         jwt:
           issuer-uri: https://accounts.google.com
